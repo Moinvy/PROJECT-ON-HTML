@@ -11,7 +11,7 @@ body::before{
     height: 60px;
 }
 
-.navbar {
+/* .navbar {
         position: fixed;
         width: 100%;
         z-index: 1000;
@@ -24,4 +24,4 @@ body::before{
       }
       .content {
         padding-top: 70px;
-      }
+      } */
