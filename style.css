@@ -25,3 +25,12 @@ body::before{
       .content {
         padding-top: 70px;
       } */
+.footer-menu li
+{
+    text-decoration: none;
+    list-style: none;
+}
+.footer-section h4
+{
+    color:deepskyblue;
+}
