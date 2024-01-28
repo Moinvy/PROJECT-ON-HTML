@@ -10,3 +10,18 @@ body::before{
     content:'';
     height: 60px;
 }
+
+.navbar {
+        position: fixed;
+        width: 100%;
+        z-index: 1000;
+      }
+      .navbar-top {
+        top: 0;
+      }
+      .navbar-bottom {
+        top: 60px;
+      }
+      .content {
+        padding-top: 70px;
+      }
